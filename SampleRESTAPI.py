@@ -4,7 +4,7 @@ import json
 app = Flask(__name__)
 
 questions = [
-  { 'description': 'which is capital of India 7 ?', 'answer': 'DELHI' }
+  { 'description': 'which is capital of India 8 ?', 'answer': 'DELHI' }
 ]
 
 @app.route('/question')
